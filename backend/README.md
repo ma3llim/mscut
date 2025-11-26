@@ -27,7 +27,7 @@ The URL Shortener API is a backend service that enables users to shorten URLs, t
 1. Clone the repository:
 
     ```bash
-    https://github.com/ma3llim007/mscut.git
+    https://github.com/ma3llim/mscut.git
     ```
 
 2. Navigate to the backend directory:
@@ -92,7 +92,7 @@ To contribute to this project:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/ma3llim007/mscut.git
+    git clone https://github.com/ma3llim/mscut.git
     ```
 
 2. **Create a new branch** for your feature or fix:
