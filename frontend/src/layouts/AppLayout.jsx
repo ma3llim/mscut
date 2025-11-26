@@ -15,7 +15,7 @@ const AppLayout = () => {
                 <div className="w-full my-4 mx-auto">
                     <ul className="flex flex-wrap justify-center gap-3 items-center">
                         <li className="bg-[#1877F2] p-2 rounded-lg hover:opacity-80 transition cursor-pointer">
-                            <a target="_blank" href="https://www.facebook.com/ma3llim/" aria-label="Visit My Facebook">
+                            <a target="_blank" href="https://www.facebook.com/ma3llim007/" aria-label="Visit My Facebook">
                                 <FacebookIcon className="text-white w-6 h-6" />
                             </a>
                         </li>
